@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://hideip.j8.market/'
+const BAREURL = 'https://hideip.j8.market'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
